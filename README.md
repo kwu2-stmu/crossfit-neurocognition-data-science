@@ -11,7 +11,7 @@ An end-to-end Python **Extract, Transform, and Load (ETL)**, **psychometric feat
 
 This project bridges **cognitive neuroscience**, **exercise physiology**, and **applied machine learning**:
 1. **Automated Data Governance & Reconciliation:** Programmatically resolves multi-visit file collisions, administrator re-attempts, and cross-project survey logs into a validated Single Source of Truth (`360` standardized session datasets).
-2. **Repeated-Measures Statistical Modeling & ANCOVA:** Demonstrates a disproportionate, dose-dependent acceleration in executive processing speed ($p = .0017$) and single-task response variability stabilization ($p = .0211$) without speed-accuracy trade-offs.
+2. **Repeated-Measures Statistical Modeling & ANCOVA:** Demonstrates a disproportionate, task-difficulty-dependent acceleration in executive processing speed ($p = .0017$) and single-task response variability stabilization ($p = .0211$) without speed-accuracy trade-offs.
 3. **Psychophysiological Mediation & Predictive ML:** Couples exercise-induced shifts in interoceptive/cognitive mindfulness (`SMS-PA-2`) with dual-task working memory stability ($r = .54, p = .0035$) and predicts individual neurocognitive responders out-of-sample (`75.0% LOSO-CV accuracy`, `F1 = 0.837`).
 
 ---
